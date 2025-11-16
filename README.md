@@ -17,7 +17,7 @@
 
 ### Live Demo Experience
 
-[![YT Video](https://github.com/dennismbugua/search-bar-practice-react-js-hook-simplified/blob/main/public/img/search.webp?raw=true])](https://youtu.be/Pczes2zktjk "Adjustable Columns")
+[![YT Video](https://github.com/dennismbugua/adjustable-columns/blob/main/public/img/data%20table%20-%20Dennis%20Njuguna.webp?raw=true])](https://youtu.be/Pczes2zktjk "Adjustable Columns")
 
 This isn't just a demo—it's a blueprint for building data interfaces people actually enjoy using.
 
